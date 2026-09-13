@@ -1,0 +1,44 @@
+* {
+  margin: 2;
+  padding: 2;
+  box-sizing: border-box;
+}
+body {
+  background: #eee;
+  padding: 1rem;
+}
+P {
+  font-family: sans-serif;
+}
+
+.product {
+  background: white;
+  margin: 1rem 0;
+  border-radius: 0.5 rem;
+  padding: 1rem;
+  width: 50ch;
+}
+
+section {
+  display: flex;
+}
+
+ul {
+  color: crimson;
+}
+
+.testimonial {
+  background-color: rgb(194, 103, 103);
+}
+
+footer {
+  background-color: rgb(194, 103, 103);
+}
+
+header {
+  display: flexbox;
+}
+
+ul {
+  flex: 2;
+}
